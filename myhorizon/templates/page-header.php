@@ -1,0 +1,1 @@
+<h2 class="section-header"><?php echo mht_title(); ?></h2>

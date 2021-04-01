@@ -1,0 +1,1 @@
+<?php include mht_template_path(); ?>
